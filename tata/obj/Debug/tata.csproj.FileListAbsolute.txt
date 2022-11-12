@@ -1,0 +1,11 @@
+C:\tatagit\tata\tata\bin\Debug\tata.exe.config
+C:\tatagit\tata\tata\bin\Debug\tata.exe
+C:\tatagit\tata\tata\bin\Debug\tata.pdb
+C:\tatagit\tata\tata\obj\Debug\tata.csproj.AssemblyReference.cache
+C:\tatagit\tata\tata\obj\Debug\tata.csproj.SuggestedBindingRedirects.cache
+C:\tatagit\tata\tata\obj\Debug\tata.Form1.resources
+C:\tatagit\tata\tata\obj\Debug\tata.Properties.Resources.resources
+C:\tatagit\tata\tata\obj\Debug\tata.csproj.GenerateResource.cache
+C:\tatagit\tata\tata\obj\Debug\tata.csproj.CoreCompileInputs.cache
+C:\tatagit\tata\tata\obj\Debug\tata.exe
+C:\tatagit\tata\tata\obj\Debug\tata.pdb
